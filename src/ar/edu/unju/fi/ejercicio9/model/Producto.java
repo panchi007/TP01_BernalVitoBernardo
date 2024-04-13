@@ -2,7 +2,7 @@ package ar.edu.unju.fi.ejercicio9.model;
 
 public class Producto {
 
-	 private String nombre;
+	    private String nombre;
 	    private String codigo;
 	    private double precio;
 	    private int descuento;

@@ -25,7 +25,7 @@ public class CalculadoraEspecial {
     public double calcularSumatoria() {
         double sumatoria = 0;
         for (int k = 1; k <= n; k++) {
-            sumatoria += (k * (k + 1) / 2) * (k * (k + 1) / 2);
+        	sumatoria += Math.pow(k * (k + 1) / 2, 2);
         }
         return sumatoria;
     }
