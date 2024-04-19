@@ -1,8 +1,8 @@
-package ar.edu.unju.fi.ejercicion12.main;
+package ar.edu.unju.fi.ejercicio12.main;
 
 import java.util.Scanner;
 
-import ar.edu.unju.fi.ejercicion12.model.Persona;
+import ar.edu.unju.fi.ejercicio12.model.Persona;
 
 public class Main {
 

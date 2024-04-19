@@ -1,4 +1,4 @@
-package ar.edu.unju.fi.ejercicion12.model;
+package ar.edu.unju.fi.ejercicio12.model;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;
